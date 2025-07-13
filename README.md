@@ -1,9 +1,3 @@
-Here’s the updated `README.md` with **generalized commands** to improve ease of use for new users, while still being precise and helpful. This version avoids hardcoded filenames like `employees.csv`, so users can quickly adapt the tool to any dataset.
-
----
-
-### `README.md`
-
 ````markdown
 # Tabulyst
 
