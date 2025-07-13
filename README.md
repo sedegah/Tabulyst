@@ -128,5 +128,3 @@ MIT License
 
 GitHub: [sedegah](https://github.com/sedegah)
 
-```
-
