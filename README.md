@@ -2,6 +2,7 @@
 
 **Tabulyst** is a command-line CSV utility written in Haskell. It enables users to explore, summarize, filter, generate SQL schemas, and print CSV data directly from the terminal.
 
+
 Created by [@sedegah](https://github.com/sedegah)
 
 ---
