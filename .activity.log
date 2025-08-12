@@ -2,3 +2,4 @@
 // Refactor summary report output 1755015619
 // Add CSV-to-JSON conversion 1755015619
 // Add pagination for large datasets 1755015619
+// Add SQL schema export feature 1755015619
