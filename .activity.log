@@ -16,3 +16,4 @@
 // Fix filter function bug 1755181142
 // Add SQL schema export feature 1755216735
 // Improve error messages 1755216735
+// Add CSV-to-JSON conversion 1755216735
