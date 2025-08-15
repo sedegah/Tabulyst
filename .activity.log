@@ -15,3 +15,4 @@
 // Add pagination for large datasets 1755181142
 // Fix filter function bug 1755181142
 // Add SQL schema export feature 1755216735
+// Improve error messages 1755216735
