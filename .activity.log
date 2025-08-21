@@ -60,3 +60,4 @@
 // Improve error messages 1755785926
 // Improve CSV parsing performance 1755785926
 // Improve error messages 1755785926
+// Improve column type inference 1755785926
