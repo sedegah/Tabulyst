@@ -65,3 +65,4 @@
 // Add SQL schema export feature 1755872281
 // Improve column type inference 1755872281
 // Refactor summary report output 1755872281
+// Improve error messages 1755872281
