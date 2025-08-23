@@ -76,3 +76,4 @@
 // Improve column type inference 1755958506
 // Add SQL schema export feature 1755958506
 // Add CSV-to-JSON conversion 1755958506
+// Fix filter function bug 1755958506
