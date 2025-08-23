@@ -73,3 +73,4 @@
 // Improve error messages 1755958506
 // Add pagination for large datasets 1755958506
 // Add CSV-to-JSON conversion 1755958506
+// Improve column type inference 1755958506
