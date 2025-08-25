@@ -91,3 +91,4 @@
 // Improve column type inference 1756131555
 // Add CSV-to-JSON conversion 1756131555
 // Improve CSV parsing performance 1756156548
+// Add SQL schema export feature 1756156548
