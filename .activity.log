@@ -89,3 +89,4 @@
 // Optimize aggregation functions 1756131555
 // Refactor file reading logic 1756131555
 // Improve column type inference 1756131555
+// Add CSV-to-JSON conversion 1756131555
