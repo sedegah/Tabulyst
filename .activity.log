@@ -123,3 +123,4 @@
 // Add pagination for large datasets 1756411352
 // Improve CSV parsing performance 1756411352
 // Refactor summary report output 1756411352
+// Add SQL schema export feature 1756411352
