@@ -129,3 +129,4 @@
 // Fix filter function bug 1756411352
 // Improve column type inference 1756411352
 // Add CSV-to-JSON conversion 1756477004
+// Add SQL schema export feature 1756477004
