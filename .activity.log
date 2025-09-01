@@ -149,3 +149,4 @@
 // Improve column type inference 1756649675
 // Add SQL schema export feature 1756649675
 // Add CSV-to-JSON conversion 1756649675
+// Refactor file reading logic 1756687346
