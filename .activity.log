@@ -254,3 +254,4 @@
 // Add SQL schema export feature 1758118638
 // Fix filter function bug 1758118638
 // Refactor file reading logic 1758118638
+// Improve error messages 1758129249
